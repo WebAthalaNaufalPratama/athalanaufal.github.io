@@ -1,0 +1,8 @@
+bootstrap 5
+
+1. Navigasi bootstrap 5 memakai margin start, margin center, dan margin end
+
+2. Memberi tahu bootstrap bahwa navbar gelap / terang
+navbar-light / navbar-dark
+
+3. untuk membuat rounded-cricle harus pake class
